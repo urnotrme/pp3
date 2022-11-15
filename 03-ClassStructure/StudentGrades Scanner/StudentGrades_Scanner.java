@@ -9,14 +9,15 @@ public class StudentGrades_Scanner {
     StudentGrades_Scanner(String studentName, int numberOfGrades) {
         this.studentName = studentName;
         this.numberOfGrades = numberOfGrades;
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         this.grades = new double[numberOfGrades];
         for (int i = 0; i < this.numberOfGrades; i++) {
             
             System.out.println("Enter grade: ");
-            double grade = scanner.nextDouble();
+            double grade = sc.nextDouble();
             this.grades[i] = grade;
         }
+        sc.close();
     }
     
     public double calculateMaxGrade(){
