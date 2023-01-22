@@ -1,307 +1,307 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T18:32:06.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ScvD2nopreH-AM0zf_B4" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T20:41:36.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9DNKmk_MnaI4J76AEBCQ" version="20.8.5" type="github">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
-    <mxGraphModel dx="6050" dy="2305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4600" dy="2364" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="7ha3w01B_ns5f8-env8l-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-210" y="1009" as="sourcePoint" />
-            <mxPoint x="-202" y="644" as="targetPoint" />
+            <mxPoint x="-103" y="1053" as="sourcePoint" />
+            <mxPoint x="-95" y="639" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-434" y="817" />
+              <mxPoint x="-223" y="844" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-6" value="&lt;p style=&quot;line-height: normal; font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;Zamówienie&lt;br style=&quot;font-size: 26px;&quot;&gt;hurtowe&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=26;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-138" y="628" width="60" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-6" value="&lt;p style=&quot;line-height: normal; font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;Zamówienie&lt;br style=&quot;font-size: 26px;&quot;&gt;hurtowe&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=26;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="-31" y="623" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%; font-size: 27px;&quot;&gt;Zamówienie&lt;br/&gt;detaliczne&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="-138" y="1015" width="60" height="120" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%; font-size: 27px;&quot;&gt;Zamówienie&lt;br/&gt;detaliczne&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="-31" y="1010" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-12" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=27;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-12" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=27;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="153" y="724" as="sourcePoint" />
             <mxPoint x="153" y="527" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-17" y="637" />
+              <mxPoint x="90" y="624" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 26px; line-height: 107%;&quot;&gt;Niewystarczająca&lt;br/&gt;ilość kawy w magazynie&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=27;" vertex="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-13" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px; line-height: 107%;&quot;&gt;Niewystarczająca&lt;br style=&quot;font-size: 25px;&quot;&gt;ilość kawy w magazynie&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="252" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Wystarczająca&lt;br&gt;ilość kawy w magazynie&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Wystarczająca&lt;br&gt;ilość kawy w magazynie&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="252" y="708" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 24px; line-height: 107%;&quot;&gt;Zamówienie&lt;br/&gt;określonej ilości kawy od partnerzy z Ameryki Południowej&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="609" y="510" width="286" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-15" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px; line-height: 107%;&quot;&gt;Zamówienie&lt;br style=&quot;font-size: 25px;&quot;&gt;określonej ilości kawy od partnerów z Ameryki Południowej&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" parent="1" vertex="1">
+          <mxGeometry x="609" y="510" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Palenie i pakowanie&lt;br/&gt;kawy &lt;/span&gt;&lt;span class=&quot;normaltextrun&quot;&gt;&lt;span style=&quot;line-height: 107%; border: 1pt none windowtext; padding: 0cm;&quot;&gt;w halach dla palarni&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;9.0pt;line-height:107%&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1532" y="510" width="288" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-19" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2029" y="510" width="288" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-20" value="Otrzymanie ziaren kawy w Polsce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1117" y="510" width="186" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-25" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-25" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="408" y="527" as="sourcePoint" />
             <mxPoint x="577" y="527" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-26" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="912" y="523.8900000000002" as="sourcePoint" />
-            <mxPoint x="1081" y="523.8900000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-27" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1331" y="523.8900000000002" as="sourcePoint" />
-            <mxPoint x="1500" y="523.8900000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-29" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1844" y="523.8900000000002" as="sourcePoint" />
-            <mxPoint x="2013" y="523.8900000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-30" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2544" y="450" width="162" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-31" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2336" y="523.8900000000003" as="sourcePoint" />
-            <mxPoint x="2505.000000000001" y="523.8900000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2902" y="451" width="156" height="149" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-33" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2725" y="524.1700000000003" as="sourcePoint" />
-            <mxPoint x="2894.000000000001" y="524.1700000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2029" y="708" width="288" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-35" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-35" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="396" y="722" as="sourcePoint" />
-            <mxPoint x="2013" y="721.8900000000006" as="targetPoint" />
+            <mxPoint x="1572" y="722" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-36" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2544" y="648" width="162" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-37" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-40" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=27;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2336" y="721.8900000000006" as="sourcePoint" />
-            <mxPoint x="2505.000000000001" y="721.8900000000006" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2902" y="649" width="156" height="149" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-39" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2725" y="722.1700000000003" as="sourcePoint" />
-            <mxPoint x="2894.000000000001" y="722.1700000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-40" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=27;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="1196" as="sourcePoint" />
-            <mxPoint x="146" y="918" as="targetPoint" />
+            <mxPoint x="178" y="1233" as="sourcePoint" />
+            <mxPoint x="187" y="955" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-11" y="1063" />
+              <mxPoint x="94" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-41" value="Zamówienie indywidualne" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="233" y="881" width="60" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-41" value="Zamówienie&lt;br&gt;detaliczne indywidualne" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="264" y="896" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-43" value="Zamówienie nieindywidualne" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="209" y="1259" width="60" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-43" value="Zamówienie detaliczne zwykłe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="241" y="1254" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-45" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 26px; line-height: 107%;&quot;&gt;Niewystarczająca&lt;br/&gt;ilość kawy w magazynie&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1097" width="60" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-45" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 26px; line-height: 107%;&quot;&gt;Niewystarczająca&lt;br/&gt;ilość kawy w magazynie&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=27;" parent="1" vertex="1">
+          <mxGeometry x="531" y="1090" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-46" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Wystarczająca&lt;br&gt;ilość kawy w magazynie&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="583" y="1444" width="60" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-46" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Wystarczająca&lt;br&gt;ilość kawy w magazynie&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="518" y="1437" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 24px; line-height: 107%;&quot;&gt;Zamówienie&lt;br/&gt;określonej ilości kawy od partnerzy z Ameryki Południowej&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1306" y="1197" width="286" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Palenie i pakowanie&lt;br/&gt;kawy &lt;/span&gt;&lt;span class=&quot;normaltextrun&quot;&gt;&lt;span style=&quot;line-height: 107%; border: 1pt none windowtext; padding: 0cm;&quot;&gt;w halach dla palarni&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;9.0pt;line-height:107%&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2229" y="1197" width="288" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-49" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2726" y="1197" width="288" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-50" value="Otrzymanie ziaren kawy w Polsce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1814" y="1197" width="186" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-52" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-66" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=27;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1609" y="1210.8900000000003" as="sourcePoint" />
-            <mxPoint x="1778" y="1210.8900000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-53" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2028" y="1210.8900000000003" as="sourcePoint" />
-            <mxPoint x="2197" y="1210.8900000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-54" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2541" y="1210.8900000000003" as="sourcePoint" />
-            <mxPoint x="2710" y="1210.8900000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-55" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3227" y="1145" width="162" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-56" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3033" y="1210.8900000000003" as="sourcePoint" />
-            <mxPoint x="3202.000000000001" y="1210.8900000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-57" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3605" y="1140" width="156" height="149" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-58" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3422" y="1211.17" as="sourcePoint" />
-            <mxPoint x="3591.000000000001" y="1211.17" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-59" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2717" y="1436" width="288" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-60" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="7ha3w01B_ns5f8-env8l-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="727" y="1458" as="sourcePoint" />
-            <mxPoint x="2344" y="1457.8900000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-61" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3232" y="1376" width="162" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-62" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3024" y="1449.8900000000003" as="sourcePoint" />
-            <mxPoint x="3193.000000000001" y="1449.8900000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-63" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3602" y="1377" width="156" height="149" as="geometry" />
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-64" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3429" y="1457.3300000000002" as="sourcePoint" />
-            <mxPoint x="3598.000000000001" y="1457.3300000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-66" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=27;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="516" y="1462" as="sourcePoint" />
-            <mxPoint x="535" y="1132" as="targetPoint" />
+            <mxPoint x="451" y="1455" as="sourcePoint" />
+            <mxPoint x="470" y="1125" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="356" y="1273" />
+              <mxPoint x="373" y="1273" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-77" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 24px; line-height: 107%;&quot;&gt;Zamówienie&amp;nbsp;kawy od partnerzy z Ameryki Południowej&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="590" y="881" width="286" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-77" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 24px; line-height: 107%;&quot;&gt;Zamówienie&amp;nbsp;kawy od partnerów z Ameryki Południowej&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="638" y="894" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-78" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Palenie i pakowanie&lt;br/&gt;kawy &lt;/span&gt;&lt;span class=&quot;normaltextrun&quot;&gt;&lt;span style=&quot;line-height: 107%; border: 1pt none windowtext; padding: 0cm;&quot;&gt;w halach dla palarni&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;9.0pt;line-height:107%&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1513" y="881" width="288" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-78" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Palenie i pakowanie&lt;br/&gt;kawy &lt;/span&gt;&lt;span class=&quot;normaltextrun&quot;&gt;&lt;span style=&quot;line-height: 107%; border: 1pt none windowtext; padding: 0cm;&quot;&gt;w halach dla palarni&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;9.0pt;line-height:107%&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="1451" y="896" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-79" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2010" y="881" width="288" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-79" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="1780.5" y="896" width="123" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-80" value="Otrzymanie ziaren kawy w Polsce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1098" y="881" width="186" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-80" value="Otrzymanie ziaren kawy w Polsce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" parent="1" vertex="1">
+          <mxGeometry x="1129" y="896" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-81" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-81" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389" y="898" as="sourcePoint" />
-            <mxPoint x="558" y="898" as="targetPoint" />
+            <mxPoint x="420" y="913" as="sourcePoint" />
+            <mxPoint x="589" y="913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-82" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-82" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="893" y="894.8900000000006" as="sourcePoint" />
-            <mxPoint x="1062" y="894.8900000000006" as="targetPoint" />
+            <mxPoint x="924" y="909.8900000000006" as="sourcePoint" />
+            <mxPoint x="1093" y="909.8900000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-83" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-83" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1312" y="894.8900000000006" as="sourcePoint" />
-            <mxPoint x="1481" y="894.8900000000006" as="targetPoint" />
+            <mxPoint x="1249" y="909.8300000000006" as="sourcePoint" />
+            <mxPoint x="1418" y="909.8300000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-84" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-84" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1825" y="894.8900000000006" as="sourcePoint" />
-            <mxPoint x="1994" y="894.8900000000006" as="targetPoint" />
+            <mxPoint x="1606" y="910.0000000000006" as="sourcePoint" />
+            <mxPoint x="1775" y="910.0000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-85" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2525" y="821" width="162" height="150" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-85" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2130" y="829" width="114" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-86" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-86" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2317" y="894.8900000000006" as="sourcePoint" />
-            <mxPoint x="2486.000000000001" y="894.8900000000006" as="targetPoint" />
+            <mxPoint x="1927" y="910.5000000000006" as="sourcePoint" />
+            <mxPoint x="2096.000000000001" y="910.5000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-87" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2883" y="822" width="156" height="149" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-87" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2461" y="827" width="134" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-88" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-88" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2706" y="895.1700000000003" as="sourcePoint" />
-            <mxPoint x="2875.000000000001" y="895.1700000000003" as="targetPoint" />
+            <mxPoint x="2277" y="910.5000000000003" as="sourcePoint" />
+            <mxPoint x="2446.000000000001" y="910.5000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-89" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=27;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-89" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=27;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="918" y="1210.5" as="sourcePoint" />
-            <mxPoint x="903" y="1014" as="targetPoint" />
+            <mxPoint x="853" y="1203.5" as="sourcePoint" />
+            <mxPoint x="838" y="1007" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="748" y="1123.5" />
+              <mxPoint x="756" y="1101" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-90" value="Klient chce czekać na dostawę&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="939" y="1205" width="178" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-90" value="Klient chce czekać na dostawę&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="874" y="1198" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-91" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontFamily=Verdana;fontSize=26;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-91" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontFamily=Verdana;fontSize=26;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1106" y="1213" as="sourcePoint" />
-            <mxPoint x="1276.5" y="1212.83" as="targetPoint" />
+            <mxPoint x="1041" y="1206" as="sourcePoint" />
+            <mxPoint x="1211.5" y="1205.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-92" value="Klient nie chce czekać na dostawę&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="920" y="998" width="178" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-92" value="Klient nie chce czekać na dostawę&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="855" y="991" width="151" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-93" value="Anulowanie zamówienia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="3641" y="998" width="60" height="30" as="geometry" />
+        <mxCell id="7ha3w01B_ns5f8-env8l-93" value="Anulowanie zamówienia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="3576" y="991" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ha3w01B_ns5f8-env8l-94" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="7ha3w01B_ns5f8-env8l-94" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1117" y="1011.78" as="sourcePoint" />
-            <mxPoint x="3564" y="1012" as="targetPoint" />
+            <mxPoint x="1052" y="1004.78" as="sourcePoint" />
+            <mxPoint x="3499" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Palenie i pakowanie&lt;br/&gt;kawy &lt;/span&gt;&lt;span class=&quot;normaltextrun&quot;&gt;&lt;span style=&quot;line-height: 107%; border: 1pt none windowtext; padding: 0cm;&quot;&gt;w halach dla palarni&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;9.0pt;line-height:107%&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="518" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1620.5" y="518" width="166.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-5" value="Otrzymanie ziaren kawy w Polsce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="969" y="518" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-6" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="764" y="531.8900000000003" as="sourcePoint" />
+            <mxPoint x="933" y="531.8900000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-7" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1089" y="531.8300000000008" as="sourcePoint" />
+            <mxPoint x="1258" y="531.8300000000008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-8" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1446" y="532.0000000000005" as="sourcePoint" />
+            <mxPoint x="1615" y="532.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-9" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1993" y="451" width="114" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-10" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1790" y="532.5000000000005" as="sourcePoint" />
+            <mxPoint x="1959.000000000001" y="532.5000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2324" y="449" width="134" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-12" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2140" y="532.5000000000005" as="sourcePoint" />
+            <mxPoint x="2309.000000000001" y="532.5000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-13" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px; line-height: 107%;&quot;&gt;Zamówienie&lt;br style=&quot;font-size: 25px;&quot;&gt;określonej ilości kawy od partnerów z Ameryki Południowej&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1252" y="1198" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Palenie i pakowanie&lt;br/&gt;kawy &lt;/span&gt;&lt;span class=&quot;normaltextrun&quot;&gt;&lt;span style=&quot;line-height: 107%; border: 1pt none windowtext; padding: 0cm;&quot;&gt;w halach dla palarni&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;9.0pt;line-height:107%&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1934" y="1206" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="2263.5" y="1206" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-16" value="Otrzymanie ziaren kawy w Polsce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1206" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-17" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1407" y="1219.8900000000003" as="sourcePoint" />
+            <mxPoint x="1576" y="1219.8900000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-18" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1732" y="1219.8300000000008" as="sourcePoint" />
+            <mxPoint x="1901" y="1219.8300000000008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-19" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2089" y="1220.0000000000005" as="sourcePoint" />
+            <mxPoint x="2258" y="1220.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-20" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2613" y="1139" width="114" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-21" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2410" y="1220.5000000000005" as="sourcePoint" />
+            <mxPoint x="2579.000000000001" y="1220.5000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2944" y="1137" width="134" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-23" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2760" y="1220.5000000000005" as="sourcePoint" />
+            <mxPoint x="2929.000000000001" y="1220.5000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1612.5" y="689.5" width="176" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-25" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1971.5" y="635.5" width="162" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-26" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1794.499999999999" y="711.0700000000002" as="sourcePoint" />
+            <mxPoint x="1963.500000000001" y="711.0700000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-27" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2331.5" y="630" width="156" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-28" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2154.499999999999" y="709.0700000000002" as="sourcePoint" />
+            <mxPoint x="2323.500000000001" y="709.0700000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-29" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="643" y="1466.25" as="sourcePoint" />
+            <mxPoint x="1819" y="1466.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Realizacja&lt;br/&gt;zamówienia w magazynie ogólnym&lt;/font&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Verdana;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1859.5" y="1433.75" width="176" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-31" value="&lt;p style=&quot;font-size: 26px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Nadanie&lt;br&gt;zamówienia do klienta&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2218.5" y="1379.75" width="162" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-32" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2041.499999999999" y="1455.3200000000002" as="sourcePoint" />
+            <mxPoint x="2210.500000000001" y="1455.3200000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-33" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Koniec&lt;br&gt;realizacji zamówienia&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Verdana;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2578.5" y="1374.25" width="156" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="lnII6F9MkI7NVNXgPGzy-34" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=25;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2401.499999999999" y="1453.3200000000002" as="sourcePoint" />
+            <mxPoint x="2570.500000000001" y="1453.3200000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
